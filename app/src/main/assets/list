@@ -1,0 +1,29 @@
+{
+  "video_list": [
+    {
+      "title": "EMPTINESS FT.JUSTIN",
+      "time": "18 HOURS AGO",
+      "description": "Lorem Ipsum is simply dummy"
+    },
+    {
+          "title": "I' M FALLING LOVE",
+               "time": "20 HOURS AGO",
+               "description": "Lorem Ipsum is simply dummy"
+     },
+     {
+        "title": "BABY FT.JUSTIN BABER",
+             "time": "19 HOURS AGO",
+              "description": "Lorem Ipsum is simply dummy"
+      },
+      {
+              "title": "NEVER SAY NEVER",
+                   "time": "21 HOURS AGO",
+                  "description": "Lorem Ipsum is simply dummy"
+       },
+         {
+                    "title": "BEAUTY AND BEAT",
+                         "time": "22 HOURS AGO",
+                     "description": "Lorem Ipsum is simply dummy"
+         }
+  ]
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="video">VIDEOS</string>
+    <string name="nav_about_us">ABOUT US</string>
+    <string name="miletstone">MILESTONE</string>
+    <string name="image">IMAGES</string>
+
+    <!--TITLE-->
+    <string name="title">HOME</string>
+</resources>
